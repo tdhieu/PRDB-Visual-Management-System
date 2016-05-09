@@ -1,0 +1,133 @@
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.exe
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.pdb
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\Antlr4.Runtime.v4.0.dll
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\DevExpress.Data.v11.1.Compact.dll
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\Antlr4.Runtime.v4.0.xml
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.csprojResolveAssemblyReference.cache
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLLexer.cs
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLParser.cs
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLListener.cs
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLBaseListener.cs
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLVisitor.cs
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLBaseVisitor.cs
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_About.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_DeleteQuery.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_DeleteRelation.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_DeleteScheme.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_Loading.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_NewQuery.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_NewRelation.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_NewScheme.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_Connecting.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_OpenQuery.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_OpenRelation.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_OpenScheme.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameDB.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_InputType.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.Form_Main.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameQuery.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameRelation.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_SaveQuery.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_SaveRelation.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_SaveScheme.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_Saving.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.Properties.Resources.resources
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.csproj.GenerateResource.Cache
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.exe
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.pdb
+D:\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.exe.licenses
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.exe
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.exe
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.pdb
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\Antlr4.Runtime.v4.0.dll
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\DevExpress.Data.v11.1.Compact.dll
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\Antlr4.Runtime.v4.0.xml
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.csprojResolveAssemblyReference.cache
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLLexer.cs
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLParser.cs
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLListener.cs
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLBaseListener.cs
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLVisitor.cs
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLBaseVisitor.cs
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_DeleteQuery.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_DeleteRelation.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_DeleteScheme.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_Loading.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_NewQuery.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_NewRelation.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_NewScheme.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_Connecting.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_OpenQuery.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_OpenRelation.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_OpenScheme.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameDB.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_InputType.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.Form_Main.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameQuery.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameRelation.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_SaveQuery.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_SaveRelation.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_SaveScheme.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_Saving.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.Properties.Resources.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.csproj.GenerateResource.Cache
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.exe.licenses
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.pdb
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameScheme.resources
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.exe.manifest
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.exe.manifest
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.application
+D:\Dropbox\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.application
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.exe.manifest
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.application
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.exe
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.pdb
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\Antlr4.Runtime.v4.0.dll
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\DevExpress.Data.v11.1.Compact.dll
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\System.Data.SQLite.dll
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\Antlr4.Runtime.v4.0.xml
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.csprojResolveAssemblyReference.cache
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLLexer.cs
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLParser.cs
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLListener.cs
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLBaseListener.cs
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLVisitor.cs
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\ProbSQLBaseVisitor.cs
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_DeleteQuery.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_DeleteRelation.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_DeleteScheme.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_Loading.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_NewQuery.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_NewRelation.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_NewScheme.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_Connecting.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_OpenQuery.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_OpenRelation.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_OpenScheme.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameDB.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_InputType.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.Form_Main.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameQuery.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameRelation.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_RenameScheme.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_SaveQuery.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_SaveRelation.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_SaveScheme.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.PresentationLayer.Form_Saving.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB_Visual_Management.Properties.Resources.resources
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.csproj.GenerateResource.Cache
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.exe.licenses
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.exe.manifest
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.application
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.exe
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\obj\x86\Debug\PRDB Visual Management.pdb
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\PRDB Visual Management.exe.config
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\EntityFramework.dll
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\EntityFramework.xml
+D:\Study Folder\CHBK\Cao Hoc\Master Thesis\Phan Mem\PRDB Visual Management\bin\Debug\EntityFramework.SqlServer.xml
